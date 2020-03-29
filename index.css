@@ -1,0 +1,19 @@
+li {
+  list-style: none;
+  border: 1px solid black;
+  padding: 10px;
+  width: 40%;
+  margin: 10px;
+}
+
+li>p {
+  font-style: italic;
+}
+
+.normal {
+  text-decoration: none;
+}
+
+.altered {
+  text-decoration: line-through;
+}
